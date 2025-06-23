@@ -109,7 +109,7 @@ $(function() {
 					text: this.get('title'),
 					strokeWeight: 1,
 					strokeColor: '#000000',
-					fontColor: '#' + this.get('fillcolor'),
+					fontColor: '#000000',
 					zIndex: 10000,
 				});
 
