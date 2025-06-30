@@ -793,12 +793,12 @@
 	{
 		"type": "Territories",
 		"title": "Little Seoul",
-		"notes": "Famille - McReary",
+		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "fc8f04",
-		"image": "iconsweb/LogoGroupe/Logo_mcreary.png",
+		"fillcolor": "ffffff",
+		"image": "",
 		"latlngarray": [
 			{"lat": -64.506, "lng": -45.869},
 			{"lat": -64.742, "lng": -45.408},
@@ -3562,12 +3562,12 @@
 	{
 		"type": "Territories",
 		"title": "Sandy Shore",
-		"notes": "Famille - McReary",
+		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "fc8f04",
-		"image": "iconsweb/LogoGroupe/Logo_mcreary.png",
+		"fillcolor": "ffffff",
+		"image": "",
 		"latlngarray": [
 			{"lat": 36.854, "lng": 22.919},
 			{"lat": 36.749, "lng": 23.193},
