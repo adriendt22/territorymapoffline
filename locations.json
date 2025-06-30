@@ -1079,12 +1079,12 @@
 	{
 		"type": "Territories",
 		"title": "Mesa",
-		"notes": "",
+		"notes": "Money Over Bitch",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "ffffff",
-		"image": "",
+		"fillcolor": "000000",
+		"image": "iconsweb/LogoGroupe/Logo_mob.png",
 		"latlngarray": [
 			{"lat": -63.065, "lng": 9.672},
 			{"lat": -62.685, "lng": 8.319},
