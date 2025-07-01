@@ -1172,11 +1172,11 @@
 	{
 		"type": "Territories",
 		"title": "Vinewood",
-		"notes": "",
+		"notes": "Organisation - Klan Økseligaen",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "ffffff",
+		"fillcolor": "ce0f0f",
 		"image": "",
 		"latlngarray": [
 			{"lat": -55.545, "lng": -12.342},
