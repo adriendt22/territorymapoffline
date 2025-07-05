@@ -1038,12 +1038,12 @@
 	{
 		"type": "Territories",
 		"title": "Fête Foraine",
-		"notes": "Cartel - Fuente Roja",
+		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "12a4d3",
-		"image": "iconsweb/LogoGroupe/Logo_fuenteroja.png",
+		"fillcolor": "ffffff",
+		"image": "",
 		"latlngarray": [
 			{"lat": -66.421, "lng": -52.533},
 			{"lat": -65.995, "lng": -52.808},
@@ -1172,11 +1172,11 @@
 	{
 		"type": "Territories",
 		"title": "Vinewood",
-		"notes": "Organisation - Klan Økseligaen",
+		"notes": "",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "ce0f0f",
+		"fillcolor": "ffffff",
 		"image": "",
 		"latlngarray": [
 			{"lat": -55.545, "lng": -12.342},
