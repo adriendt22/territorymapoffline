@@ -977,8 +977,8 @@
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "ffffff",
-		"image": "",
+		"fillcolor": "1818f1",
+		"image": "iconsweb/LogoGroupe/Logo_marabunta.png",
 		"latlngarray": [
 			{"lat": -72.302, "lng": -37.398},
 			{"lat": -72.508, "lng": -35.970},
@@ -1558,11 +1558,11 @@
 	{
 		"type": "Territories",
 		"title": "Chumash",
-		"notes": "",
+		"notes": "iconsweb/LogoGroupe/Logo_klaneestirunnak.png",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000000",
-		"fillcolor": "ffffff",
+		"fillcolor": "000000",
 		"image": "",
 		"latlngarray": [
 			{"lat": -36.033, "lng": -80.943},
