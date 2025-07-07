@@ -973,7 +973,7 @@
 	{
 		"type": "Territories",
 		"title": "Vespucci",
-		"notes": "",
+		"notes": "Gang - Marabunta",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000000",
@@ -1558,12 +1558,12 @@
 	{
 		"type": "Territories",
 		"title": "Chumash",
-		"notes": "iconsweb/LogoGroupe/Logo_klaneestirunnak.png",
+		"notes": "Organisation - Klan Eesti Runnak",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "000000",
 		"fillcolor": "000000",
-		"image": "",
+		"image": "Logo_klaneestirunnak.png",
 		"latlngarray": [
 			{"lat": -36.033, "lng": -80.943},
 			{"lat": -31.252, "lng": -82.119},
